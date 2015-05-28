@@ -1,6 +1,4 @@
 
-This is the project 3 extra credit.
-
 To compile my code, simple type: make
 The folder needs to contain a locals.txt and
 a folder cached_files containing the cached 
